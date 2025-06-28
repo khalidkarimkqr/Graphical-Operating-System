@@ -2,7 +2,7 @@
 
 # 🧠 Simple 32-bit Operating System
 
-Bootable OS written in C and x86 Assembly — built to learn the fundamentals of low-level systems and how real kernels work.
+## Bootable OS written in C and x86 Assembly — built to learn the fundamentals of low-level systems and how real kernels work.
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge)
@@ -59,19 +59,19 @@ This project is a graphical 32-bit operating system built completely from scratc
 - [QEMU](https://www.qemu.org/)
 - `make`
 
-### Build the OS
+**_1. Build the OS_**
 
 ```bash
 make
 ```
 
-### Run using QEMU
+**_2. Run using QEMU_**
 
 ```bash
 qemu-system-i386 -fda os.img
 ```
 
-### Clean Build
+**_3. Clean Build_**
 
 ```bash
 make clean
