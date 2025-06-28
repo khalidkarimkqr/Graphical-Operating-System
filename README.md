@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🧠 Simple 32-bit Operating System
+# Simple 32-bit Operating System
 
 ## Bootable OS written in C and x86 Assembly — built to learn the fundamentals of low-level systems and how real kernels work.
 
-![](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white)  
-![](https://img.shields.io/badge/x86_Assembly-4CAF50?style=for-the-badge&logo=assemblyscript&logoColor=white)  
-![](https://img.shields.io/badge/NASM-000000?style=for-the-badge&logo=gnubash&logoColor=white)  
-![](https://img.shields.io/badge/QEMU-FF5722?style=for-the-badge&logo=qemu&logoColor=white)  
+![](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/x86_Assembly-4CAF50?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![](https://img.shields.io/badge/NASM-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![](https://img.shields.io/badge/QEMU-FF5722?style=for-the-badge&logo=qemu&logoColor=white)
 ![](https://img.shields.io/badge/Makefile-FFD700?style=for-the-badge&logo=gnubash&logoColor=black)
 
 </div>
