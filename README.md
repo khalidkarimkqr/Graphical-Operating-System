@@ -17,7 +17,7 @@ Bootable OS written in C and x86 Assembly — built to learn the fundamentals of
 <div align="center">
   <!-- Replace with your actual paths if adding screenshots -->
   <img src="images/img1.png" width="49%" />
-  <img src="assets/img2.png" width="49%" /> 
+  <img src="images/img2.png" width="49%" /> 
 </div>
 
 ---
