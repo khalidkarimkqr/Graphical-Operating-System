@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻 Simple 32-bit Operating System
+# Simple 32-bit Operating System
 
 ## Bootable OS written in C and x86 Assembly — built to learn the fundamentals of low-level systems and how real kernels work.
 
